@@ -80,4 +80,4 @@ If removing based on a condition, prefer a "filter" approach:
 - [ ] (LeetCode) ________
 
 ### Solutions (code links)
-- (add later) `weeks/arraylist/solutions/...`
+- [Soulutions](solutions/)
