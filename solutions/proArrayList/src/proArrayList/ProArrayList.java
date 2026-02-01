@@ -1,4 +1,4 @@
-package arraylist;
+package proArrayList;
 
 import java.util.HashSet;
 
