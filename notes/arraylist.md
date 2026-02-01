@@ -74,13 +74,6 @@ If removing based on a condition, prefer a "filter" approach:
 
 ---
 
-## Mini check (self-test)
-- Why is `append` amortized O(1) but sometimes O(n)?
-- Why are ArrayLists fast for iteration?
-- Why are `insert(i, x)` and `remove(i)` O(n)?
-
----
-
 ## Practice problems (add links as you solve)
 - [ ] (BOJ) ________
 - [ ] (Programmers) ________
